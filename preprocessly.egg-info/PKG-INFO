@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: preprocessly
+Version: 0.2.0
+Summary: Advanced NLP preprocessing engine with spell correction, slang handling, contractions, profanity filtering and emoji normalization.
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: beautifulsoup4
+Requires-Dist: emoji
+Requires-Dist: nltk
+Requires-Dist: regex
+Requires-Dist: langdetect
+Requires-Dist: textblob
+
+# preprocessly
+Advanced NLP preprocessing engine with spell correction, slang handling, contractions, profanity filtering and emoji normalization.

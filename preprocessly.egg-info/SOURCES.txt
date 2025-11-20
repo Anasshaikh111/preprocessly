@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+preprocessly/__init__.py
+preprocessly/cleaner.py
+preprocessly/utils.py
+preprocessly.egg-info/PKG-INFO
+preprocessly.egg-info/SOURCES.txt
+preprocessly.egg-info/dependency_links.txt
+preprocessly.egg-info/requires.txt
+preprocessly.egg-info/top_level.txt
